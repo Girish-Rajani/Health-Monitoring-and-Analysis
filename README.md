@@ -14,7 +14,8 @@ Traditional health monitoring systems often categorize patient health status usi
 
 ### Distribution of Each Numerical Feature
 
-<img width="371" alt="distribution_of_each_numerical_feature" src="https://github.com/user-attachments/assets/fd32c297-4920-4deb-bc4f-e16d0b5822d0" />
+<img width="371" alt="distribution_of_each_numerical_feature" src="https://github.com/user-attachments/assets/af551980-78f6-41ad-bf14-5b1568ae5b6c" />
+
 
 ### Gender Distribution and Correlation Matrix
 <img width="987" alt="gender_distribution_and_correlation_matrix" src="https://github.com/user-attachments/assets/49ebb893-b5ee-4a40-a5b4-f8177a5ac07c" />
