@@ -18,7 +18,9 @@ Traditional health monitoring systems often categorize patient health status usi
 
 
 ### Gender Distribution and Correlation Matrix
+
 <img width="987" alt="gender_distribution_and_correlation_matrix" src="https://github.com/user-attachments/assets/49ebb893-b5ee-4a40-a5b4-f8177a5ac07c" />
+
 
 The pie chart indicates a nearly even split between male and female subjects in the dataset, with males comprising a slight majority at 51.2%. The correlation matrix shows no strong correlations between the variables, as all the values are close to zero. Specifically, none of the health metrics (Age, Heart Rate, Respiratory Rate, Body Temperature, and Oxygen Saturation) display a strong positive or negative linear relationship with one another in this particular dataset.
 
@@ -26,11 +28,13 @@ The pie chart indicates a nearly even split between male and female subjects in 
 
 <img width="768" alt="heart_rate_by_activity_level" src="https://github.com/user-attachments/assets/cee8143c-e416-4bc3-9cb1-1efb8ae5c658" />
 
+
 It shows that the median heart rate increases from resting to walking, which is expected as physical activity increases. However, the median heart rate does not significantly increase further during running compared to walking, which is unusual since we would expect a higher median heart rate for a more strenuous activity. Additionally, there is considerable overlap in the interquartile ranges between walking and running, suggesting similar variability in heart rates for these activities within the sampled population. The presence of outliers in the resting category indicates that some individuals have resting heart rates that are much higher than the typical range for the rest of the group.
 
 ### Blood Pressure Distribution and Heart Rate / Oxygen Saturation by Gender
 
 <img width="334" alt="bp_distribution_and_other_metrics_by_gender" src="https://github.com/user-attachments/assets/5b50fb86-0790-481c-b2a4-c3c06dbc0ef5" />
+
 
 The systolic blood pressure, represented in blue, shows a more spread-out distribution with peaks suggesting common readings around 120 mmHg and 140 mmHg. The diastolic blood pressure, in red, appears to have a narrower distribution, with a significant peak around 80 mmHg. The spread of systolic values is broader than the diastolic ones, which is typical as systolic pressure tends to vary more with factors like activity level and stress. This distribution is consistent with general population trends where a systolic reading of around 120 mmHg and a diastolic reading of around 80 mmHg are considered normal.
 
